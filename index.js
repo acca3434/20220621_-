@@ -53,7 +53,21 @@
 // origin : 복제한 원격 git 저장소의 기본 이름
 // git remote : origin 복제한 url을 참조하기 위해 호출
 // git remote add origin https://github.com/acca3434/20220621_-.git 이건
-// https://github.com/acca3434/20220621_-.git (자신의 주소) 
-// 복제한 url 자신의 깃주소
+// https://github.com/acca3434/20220621_-.git (자신의 깃 주소)를 
+// 추가해준다 복제한 url 자신의 깃주소
 
+
+// cd "들어갈 폴더" : 경로 변경하는데
+// cd.. : 경로가 한단계 위로 올라간다.
+
+// ls : 경로에 있는 파일 구조를 볼 수 있다.
 // git push -u origin main 깃 저장소에 첫 커밋을 푸쉬(추가)해줌
+
+// U : 저장소에 없는 새로운 파일
+
+// M : 저장소에 파일은 있고 내용이 변경됬을때
+
+// D : 저장소에 있는 파일이 제거됬을때
+
+// git 저장소가 초기화 된 경로인지 확인 잘하고 사용
+// 경로는 git init을 한 경로
